@@ -1,0 +1,3 @@
+#+LANGUAGE: zh-cn
+#+OPTIONS: num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/style.css" />
